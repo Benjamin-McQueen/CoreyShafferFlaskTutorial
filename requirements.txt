@@ -1,9 +1,11 @@
 email_validator
-flask
+flask~=2.0.1
 flask-bcrypt
 flask-login
+flask-mail
 flask-sqlalchemy
 flask-security
 flask-wtf
+itsdangerous
 Pillow
 WTForms
